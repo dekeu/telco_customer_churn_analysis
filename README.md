@@ -101,7 +101,3 @@ Potential extensions of this analysis include:
 - Measuring the impact of retention initiatives over time
 
 ---
-
-## 👤 Author
-Junior Data Analyst Portfolio Project  
-Python-based exploratory data analysis
